@@ -1,0 +1,55 @@
+body {
+  min-height: 75rem;
+}
+
+.logoTelaInicial {
+  width: 100px;
+  height: 100px;
+}
+
+.navTelaInicial {
+  background-color: #e69c9c;
+}
+
+#tituloTelaInicial {
+  font-size: 2.1em;
+  margin-right: 1502px;
+  color: #fff;
+}
+
+.menu-row {
+  width: 20%;
+  float: left;
+  padding-right: 0;
+  padding-left: 0;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #f6e3e3;
+}
+
+.menu-item {
+  width: 100%;
+  list-style: none;
+  padding-left: 20px;
+  color: #b25e5e !important;
+  font-family: "BeauSans Semibold Italic";
+  display: block;
+  font-size: .7em !important;
+  padding-top: 1.6rem;
+  padding-bottom: .6rem;
+  font-size: .9em !important;
+}
+
+.span {
+  width: 350px;
+}
+
+.font {
+  font-size: 19px;
+  font-weight: bold;
+  font-family: "Font Awesome 5 Free";
+}
+
+.fa-book:before {
+  content: "\f02d";
+}

@@ -1,0 +1,18 @@
+body {
+  min-height: 75rem;
+}
+
+.logoTelaInicial {
+  width: 100px;
+  height: 100px;
+}
+
+.navTelaInicial {
+  background-color: #e69c9c;
+}
+
+#tituloTelaInicial {
+  font-size: 2.1em;
+  margin-right: 1502px;
+  color: #fff;
+}
